@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Welcome to Github demo.
 
 Added with new users 
+
